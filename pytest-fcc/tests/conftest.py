@@ -9,3 +9,4 @@ def my_rectangle():
 @pytest.fixture
 def weird_rectangle():
     return shapes.Rectangle(5, 6)
+
